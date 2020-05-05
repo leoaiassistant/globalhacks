@@ -1,10 +1,10 @@
-Welcome to Hackathon Hackers! This group is of, by, and for the amazing, still growing, community of hackers hackathons have built. We're glad you're here.
+## Welcome to Global Hackathons! 
 
-If you want to recruit us, only post in HH Job Listings. If you post job listings anywhere else on HH, we will ban you forever.
+This group is of, by, and for the amazing, still growing, community of hackers interested in hackathons across the world. 
 
-Hackathon Hackers (HH) is a community. Whenever you post or reply, there are other people sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you go to hackathons. Everyone in this group is a potential new friend—treat them that way.
+Global Hackathons is a community. Whenever you post or reply, there are other people sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you go to hackathons. Everyone in this group is a potential new friend—treat them that way.
 
-This document aims to make HH a place for everyone to feel welcome. The rules, guidelines, and code of conduct that follow apply to all HH subgroups, although subgroups may also extend these to better serve their own community.
+This document aims to make this group a place for everyone to feel welcome. The rules, guidelines, and code of conduct that follow apply to all HH subgroups, although subgroups may also extend these to better serve their own community.
 
 ## Rules and Guidelines
 Hackers are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in HH. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
@@ -23,7 +23,7 @@ No illegal/pirated content, requests for it, or information regarding the distri
 No telling people they or their post is not welcome in Hackathon Hackers. If you think a post does not belong in HH, report the post or message an admin. If you make other people feel unwelcome in HH, we will remove you from the group.
 
 ## Inclusivity Statement
-Hackathon Hackers is the all-inclusive hackathons community.
+Global Hackathons is the all-inclusive hackathons community.
 
 We encourage everyone to participate and are committed to building a community for all. Although we will fail at times, we seek to treat everyone both as fairly and equally as possible. Whenever a participant has made a mistake, we expect them to take responsibility for it.
 
@@ -47,7 +47,7 @@ If you have an issue with a member or moderator please take it up with the moder
 
 We also have a confidential form if you would rather your incident not be tied to your identity.
 
-## About Hackathon Hackers
+## About Global Hackathons
 Hackathon Hackers is a space where people learn together.
 
 Members are aged from middle school to retirement, span across gender identities and races, and hail from six of the seven continents. They’re united by the common love of creating amazing things with technology, usually over the course of a weekend at some college's hackathon. If this sounds like you, come join us!
