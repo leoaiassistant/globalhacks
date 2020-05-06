@@ -12,15 +12,15 @@ Hackers & Builders are diverse and complex, with many different interests and pa
 **Our guiding principle can be summarized in a sentence: "Be excellent to each other."**
 
 ## Global Hackathons Rules:
-These are the rules/the things this space is not for. We tried to keep them short, Breaking any of these will result in your prompt removal from Global Hackathons.
+These are the rules/the things this space is not for. We tried to keep them short, Breaking any of these will result in your prompt removal from Global Hackathons:
 
-No harassment, including personal attacks.
-No spam. If Gmail wouldn't put it in my inbox, it shouldn't be in HH. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts. Posts not relating to hackathons or tech will also be considered spam.
-No shitposting, bad programmer jokes, or memes. Consider posting in a HH Sensible Chuckle.
-No recruiting for your startup, company, job, or organization. Consider posting in HH Job Listings instead.
-No posting requests or giveaways for free stuff/invites. Those belong in HH Free Stuff.
-No illegal/pirated content, requests for it, or information regarding the distribution of it.
-No telling people they or their post is not welcome in Hackathon Hackers. If you think a post does not belong in HH, report the post or message an admin. If you make other people feel unwelcome in HH, we will remove you from the group.
+- No harassment, including personal attacks.
+- No spam. This includes doing attention-catching things like writing in all caps, using linkbait headlines, or otherwise editing the post or preview to pop out at the cost of other posts. Posts not relating to hackathons or tech will also be considered spam.
+- No memes or bad programmer jokes. 
+- No recruiting for your startup, company, job, or organization. 
+- No posting requests or giveaways for free stuff/invites.
+- No illegal/pirated content, requests for it, or information regarding the distribution of it.
+- No telling people they or their post is not welcome in Hackathon Hackers. **If you think a post does not belong in Global** **Hackathons group, report the post or message to an admin. If you make other people explicitly feel unwelcome, we will remove** **you from the group.**
 
 ## Inclusivity Statement:
 Global Hackathons is the all-inclusive hackathons community.
