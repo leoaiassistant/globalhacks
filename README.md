@@ -31,10 +31,10 @@ Although this list cannot be exhaustive, we explicitly honor diversity in gender
 
 Our community prioritizes marginalized people's safe existence in the community. We will not tolerate posts encouraging:
 
-- **Insensitivity toward boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you"*
-**Racist, sexist, cissexist, or otherwise oppressive behaviors or assumptions (although these discussions may be moved to* *Constructive Debates if they better fit its guidelines).*
+- **Insensitivity toward boundary statements, such as "leave me alone," "go away," or "I'm not discussing this with you"**
+**Racist, sexist, cissexist, or otherwise oppressive behaviors or assumptions (although these discussions may be moved to** **Constructive Debates if they better fit its guidelines).**
 
-- **However, if you have a post that falls in the above categories yet you feel still belongs in our community, you can message* *a moderator to discuss it. We've had posts like these in the past that turned into constructive discussions with a* *bit of reframing. Talking about hard problems is, itself, hard.*
+- **However, if you have a post that falls in the above categories yet you feel still belongs in our community, you can** **message a moderator to discuss it. We've had posts like these in the past that turned into constructive discussions with a** **bit of reframing. Talking about hard problems is, itself, hard.**
 
 ## Posts
 To encourage a more serious discussion on your post, you may preface it with your topic tag:
@@ -45,7 +45,7 @@ To encourage a more serious discussion on your post, you may preface it with you
 - Must NOT be single words or phrases without explanation.
 - Incident Reporting:
 
-**If you have an issue with a member or moderator please take it up with the moderators privately via Facebook message to avoid* *people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the* *moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be* *confidential and we won’t get mad at you if you have a complaint.*  
+**If you have an issue with a member or moderator please take it up with the moderators privately via Facebook message to avoid* *people ganging up or taking sides in an argument in which they are not directly involved. It’s best to contact the* *moderators on Facebook via private group message so we can discuss the issue with you. We promise that everything will be* *confidential and we won’t get mad at you if you have a complaint.**  
 
 ## About Global Hackathons
 Global Hackathons is a free space where people can learn together, exchange experiences and build teams between them. Members are aged from high school to senior citizens, span across gender identities, ethnics and religions, and aim to have members from all the continents. If this match with you, come join us!
