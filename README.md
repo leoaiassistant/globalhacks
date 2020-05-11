@@ -52,4 +52,6 @@ To encourage a more serious discussion on your post, you may preface it with you
 Global Hackathons is a free space where people can learn together, exchange experiences and build teams between them. Members are aged from high school to senior citizens, span across gender identities, ethnics and religions, and aim to have members from all the continents. If this match with you, come join us!
 
 ## Disclaimer:
-All the organizer of any Hackathon posted on the group is responsible of their rules, selection criterias, among any other agreemnent that you accept by participating on their challenges. Global Hackathons community is not affiliated with the Hackathon Organizers. 
+All the organizer of any Hackathon posted on the group is responsible of their rules, selection criterias, among any other agreemnent that you accept by participating on their challenges. Global Hackathons community is not affiliated with the Hackathon Organizers.
+
+Opinions are our own, not of any company, Hackathon Organizer or their programs. Each Developer Expert is fully responsible for their services, and is not affiliated with a Tech Company nor do they offer services on behalf of them. Customers are fully responsible for their participation in Hackathons, if any. Also the sample and resources that we share in the community and the group may be samples, and should not be used for any potential production workloads.
