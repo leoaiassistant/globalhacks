@@ -1,11 +1,19 @@
 ## Welcome to Global Hackathons! 
 
-**This group is of, by, and for the amazing, still growing, community of hackers interested in hackathons across the world,**
-**and by beeing member of this group you accept the following terms and conditions.** 
+**This group is of, by, and for the vibrant and daily growing, community of Hackathoners interested in hackathons across the world,**and by beeing member of this group you accept the following terms and conditions.** 
 
-Global Hackathons is a community. Whenever you post or reply, there are other people sitting behind the screen reading what you say. These other people have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll probably end up meeting a lot of them if you participate and subscribe into hackathons. Everyone in this group is a potential new friend, partner or colleague, treat them that way.
+Global Hackathons is a community. Whenever you post or reply, there are other people behind the screen reading what you say. These other members of the community have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll can probably get to meet a lot of them if you participate and subscribe into hackathons. Everyone in this group is a potential colleague, new friend or partner, treat them with respect.
 
-This document aims to make this group a place for everyone to feel welcome. The rules, guidelines, and code of conduct that follow apply to Global Hackathons.
+This document aims to make this group a place for everyone to feel welcome. The rules, guidelines, and code of conduct that follow apply to the Global Hackathons community:
+
+-Be kind and cordial
+To create a pleasant environment we must treat each other with respect. You can discuss various matters as long as you are cordial to others.
+
+-Do not bully or use hate speech
+Make sure everyone feels safe. Bullying of any kind is not permitted, nor will degrading comments about aspects such as race, religion, culture, sexual orientation, sex or identity be tolerated.
+
+-Do not post promotions or spam
+Give more than you receive. Self-promotion, spam and irrelevant links are not allowed in this group.
 
 ## Rules and Guidelines:
 Hackers & Builders are diverse and complex, with many different interests and passions. These rules are in place so that everyone can feel comfortable participating in our group Global Hackathons. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
