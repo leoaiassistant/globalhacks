@@ -1,6 +1,6 @@
 ## Welcome to Global Hackathons! 
 
-**This group is of, by, and for the vibrant and daily growing, community of Hackathoners interested in hackathons across the world,**and by beeing member of this group you accept the following terms and conditions.** 
+**This group is of, by, and for the vibrant and daily growing, community of Hackathoners interested in hackathons across the world, and by beeing member of this group you accept the following terms and conditions.** 
 
 Global Hackathons is a community. Whenever you post or reply, there are other people behind the screen reading what you say. These other members of the community have thoughts, ideas, dreams, aspirations, troubles, advice, perspectives, feelings, and experiences, just like you. You'll can probably get to meet a lot of them if you participate and subscribe into hackathons. Everyone in this group is a potential colleague, new friend or partner, treat them with respect.
 
